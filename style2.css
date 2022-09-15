@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://images-platform.99static.com//F46NcVcvzW-ViaeOHsNFj_l0zZg=/52x994:930x1872/fit-in/500x500/99designs-contests-attachments/98/98295/attachment_98295128");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+    background-size: 350px;
+    z-index: -1;
+    background-color: cornsilk;
+}
+
+h1,
+h1+p {
+    text-align: center;
+    background-color: purple;
+    padding: 5%, 0%;
+    margin: auto;
+    font-size: xx-large;
+}
+
+i,
+input {
+    background-color: black;
+}
+
+.nav {
+    position: absolute;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.nav button {
+    padding: 0% 1%;
+    font-size: larger;
+    display: inline;
+    background-color: black;
+}
+.nav button:hover{
+    background-color:blue;
+    color:red;
+}
+a:hover{
+    background-color:blue;
+    color:red;
+}
+
+a {
+    text-decoration: none;
+    background-color: black;
+    color: whitesmoke;
+}
+
+table{
+    font-weight: bold;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    border:solid black 3px;
+    background-color: aquamarine;
+}
